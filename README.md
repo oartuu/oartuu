@@ -2,8 +2,8 @@
 ##
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oartuu&show_icons=true&theme=radical)](https://github.com/oartuu/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oartuu&layout=compact&theme=radical)](https://github.com/oartuu/github-readme-stats)
-- 🌱 estudando - HTML, CSS, JavaScript, Java, Python
-- 🤔 preciso de ajuda com - JavaScript, Python
+- 🌱 estudando - HTML, CSS, JavaScript, Java, React
+- 🤔 preciso de ajuda com - JavaScript, React
 ##
 ## Linguagens
 <div>
