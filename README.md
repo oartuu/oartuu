@@ -1,17 +1,17 @@
-## console.log('Hello, World, I'm Arthur.') ![](https://komarev.com/ghpvc/?username=oartuu&color=blueviolet&style=flat-square&base=120&abbreviated=true)  
+## console.log('Hello, World, I'm Arthur.') <br> ![](https://komarev.com/ghpvc/?username=oartuu&color=blueviolet&style=flat-square&base=120&abbreviated=true)  
 
 
 <div>
   
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=oartuu&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oartuu&layout=compact&langs_count=16&theme=great-gatsby"/>
+  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=oartuu&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oartuu&layout=compact&langs_count=16&theme=midnight-purple"/>
 </div>
 <br>
 
 <div  align="center"> 
   <div style="display: inline_block"><br>
-    <img align="left" height="250" alt="coding-time" src="code.gif">
-    <h1 align="center">My Skills</h1>
+    <img align="left" height="250" alt="coding-time" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
+    <h1 align="center">My Skills:</h1>
     <img align="center" height="30" width="40" alt="js-icon"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
     <img align="center" height="30" width="40" alt="react-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg">
     <img align="center" height="30" width="40" alt="html-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg">
@@ -20,7 +20,7 @@
   </div>
 
   <div>
-    <h1 align="center">I want to study</h1>
+    <h1 align="center">I want to Study:</h1>
     <img align="center" height="30" width="40" alt="js-icon"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
     <img align="center" height="30" width="40" alt="react-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg">
     <img align="center" height="30" width="40" alt="html-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg">
@@ -29,4 +29,4 @@
   </div>
 </div>
 
-![Snake animation](https://github.com/oartuu/oartuu/blob/output/github-contribution-grid-snake.svg)
+
