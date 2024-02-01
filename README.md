@@ -1,49 +1,33 @@
-### Oii, Eu sou o Arthur🙃
-##
+## console.log('Hello, World, I'm Arthur.')
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oartuu&show_icons=true&theme=radical)](https://github.com/oartuu/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oartuu&layout=compact&theme=radical)](https://github.com/oartuu/github-readme-stats)
-- 🌱 estudando - HTML, CSS, JavaScript, Java, React
-- 🤔 preciso de ajuda com - JavaScript, React
-
-##
-## Linguagens
- <div align="center">
-    <img src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-   <img src = "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-   <img src = "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-   <img src = "https://img.shields.io/badge/React-14354C?style=for-the-badge&logo=react&logoColor=white">
-   <img src = "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-</div>
-
-##
-
-## OS
-
-<div align = "center">
-    <img src = "https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
-   <img src = "https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white">
-</div>
-
-##
-
-## IDE
-
-<div align = "center">
-    <img src = "https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
-   <img src = "https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">
-</div>
- <div align="center">
-    <h2>Olhas quantas Visitas! </h2>
-    <img src="https://profile-counter.glitch.me/oartuu/count.svg" />
-  </div>
-
-          
-
-          
-
+<div>
   
-          
+  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=oartuu&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oartuu&layout=compact&langs_count=16&theme=great-gatsby"/>
+</div>
+<br>
 
-
-
+<div  align="center"> 
+  <div style="display: inline_block"><br>
+    <img align="left" height="250" alt="coding-time" src="code.gif">
+    <h1 align="center">My Skills<3</h1>
+    <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" height="30" width="40" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+    <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  </div>
+    
+  
+  <h1 align="center">Contacts</h1>
+    <a href = "mailto: artu.donascimento@gmail.com">
+      <img width="30" src="gmail.svg">
+    </a>
+    <a href = "https://www.linkedin.com/in/arthur-nascimento-389660273/">
+      <img width="25" src="linkedin.svg">
+    </a>
+    <a href = "https://www.instagram.com/0_artuu/">
+      <img width="25" src="instagram.png">
+    </a>
+</div>
+  
+![Snake animation](https://github.com/oartuu/oartuu/blob/output/github-contribution-grid-snake.svg)
